@@ -16,7 +16,11 @@ class Catalog {
     addMedia(media) {
        this._media.push(media);
       }
-      //pushes media when a new instance is made
+
+
+      //pushes media to array when a new instance is made
+
+   
   }
   
   
